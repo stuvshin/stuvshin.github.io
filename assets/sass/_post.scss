@@ -46,6 +46,15 @@
 .page-content {
   padding-top: 8px;
 
+  p {
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  .katex, .MathJax {
+    white-space: nowrap;
+  }
+
   iframe {
     text-align: center;
   }
