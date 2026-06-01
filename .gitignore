@@ -1,0 +1,13 @@
+/public/
+/resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+*.log
+
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+.env
+.env.*
