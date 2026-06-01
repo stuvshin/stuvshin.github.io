@@ -101,7 +101,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Tuvshin Blog"
   name = "Tuvshin"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  description = "Notes on computer science, software engineering, and things I learn along the way."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -122,13 +122,13 @@ theme = "hugo-blog-awesome"
 name = "github"
 url = "https://github.com/stuvshin"
 
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+#[[params.socialIcons]]
+#name = "twitter"
+#url = "https://twitter.com"
 
-[[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+#[[params.socialIcons]]
+#name = "Rss"
+#url = "/index.xml"
 
 ###################################################################
 
